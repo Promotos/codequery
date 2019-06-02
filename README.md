@@ -1,3 +1,4 @@
+Copyright (c) 2006, 2018 Oracle and/or its affiliates. All rights reserved.
 
 # Codequery
 
